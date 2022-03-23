@@ -1,0 +1,18 @@
+@import url("https://fonts.googleapis.com/css2?family=Cairo&display=swap");
+body {
+  background: linear-gradient(#150964, #abcac6);
+}
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 60px;
+  padding: 70px;
+}
+.card {
+  width: 30rem;
+  border-radius: 10px;
+  padding: 50px;
+  font-family: "Cairo", sans-serif;
+  background: black;
+}

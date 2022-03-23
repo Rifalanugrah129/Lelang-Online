@@ -1,0 +1,14 @@
+* {
+  background-color: grey;
+}
+.nav-link {
+  font-size: 17px;
+  font-style: italic;
+}
+.navbar-brand {
+  font-size: 21px;
+  font-style: italic;
+}
+.halaman {
+  background-color: black;
+}
